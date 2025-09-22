@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWJwMDB3NWZ6ZmZ4czVuMGYyMnh3ZW9mdHI4bWpjaDJtNHg2eGFhMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NvONRxCxKRPpe/giphy.gif)
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHpqc2lvbjBsajkxcHpwNGEyeTllbWt5ajVoaXoydHpzaGUyZnQ5ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MwxEmHoQwU5ivek77g/giphy.gif)
